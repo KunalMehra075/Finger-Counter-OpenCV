@@ -5,7 +5,7 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, this project is a great st
 
 ## 🖼 Demo
 
-![Catosaurous](https://media.giphy.com/media/DvO3mZorxl6Te/giphy.gif?cid=ecf05e478m3s8n98k836i9zbb8jjqmu81ahzktrro11h1uef&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Demo](assets/Demo.gif)
 
 ## 🎯 What It Does
 
